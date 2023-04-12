@@ -1,6 +1,3 @@
-
-[YouTube Video](https://www.youtube.com/watch?v=M576WGiDBdQ)
-
 <br/>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">

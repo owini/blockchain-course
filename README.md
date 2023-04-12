@@ -1,10 +1,3 @@
-_Big Update_: [New Sepolia Faucet Located Here](https://sepoliafaucet.com/).
-\Kovan, Ropsten, and Rinkeby have been deprecated. Goerli Still works but we highly recommend Sepolia as its proof of stake based.
-
-You'll need to verify via Twitter to get ETH & LINK.
-You can find [Backup Faucets here](https://docs.chain.link/docs/link-token-contracts/#goerli).
-
-Additionally, lesson 7 uses Chainlink VRF v1 instead of v2, [you can find the docs for Chainlink VRFv1 here](https://docs.chain.link/vrf/v1/examples/get-a-random-number).
 
 [YouTube Video](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
@@ -975,4 +968,10 @@ Be sure to check out project grant programs!
 
 [From solidity course to vyper](https://github.com/chalex-eth/From-solidity-course-to-vyper-py)
 
-And make today an amazing day!
+_Big Update_: [New Sepolia Faucet Located Here](https://sepoliafaucet.com/).
+\Kovan, Ropsten, and Rinkeby have been deprecated. Goerli Still works but we highly recommend Sepolia as its proof of stake based.
+
+You'll need to verify via Twitter to get ETH & LINK.
+You can find [Backup Faucets here](https://docs.chain.link/docs/link-token-contracts/#goerli).
+
+Additionally, lesson 7 uses Chainlink VRF v1 instead of v2, [you can find the docs for Chainlink VRFv1 here](https://docs.chain.link/vrf/v1/examples/get-a-random-number).
